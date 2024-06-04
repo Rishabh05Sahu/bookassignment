@@ -1,0 +1,12 @@
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40vw;
+}
+.nav button{
+   height: fit-content;
+   padding: 1rem;
+   
+}

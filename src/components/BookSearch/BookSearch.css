@@ -1,0 +1,16 @@
+.BookSearch{
+    width: 100vw;
+}
+.BookSearch input{
+    margin-left: 40vw;
+}
+.search-results{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    /* width: 100vw; */
+    height: auto;
+    gap: 2vw;
+    /* flex-wrap: wrap; */
+    padding: 2vw;
+  
+}
